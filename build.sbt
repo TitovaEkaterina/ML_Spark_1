@@ -1,4 +1,4 @@
-name := "StartSparkTitova"
+name := "WordCountTitova"
 
 version := "0.1"
 

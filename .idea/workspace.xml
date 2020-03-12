@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27f7f41d-0d97-4287-8cbb-037b4752ecc9" name="Default Changelist" comment="" />
+    <list default="true" id="27f7f41d-0d97-4287-8cbb-037b4752ecc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WordCount$$anonfun$$nestedInanonfun$writeToCsv$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WordCount.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -26,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
@@ -78,6 +90,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,29 +156,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="164" y="73" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583959639459">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="164" y="73" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1583959639459" />
     <state x="443" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582736787086">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="443" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.800@0.23.1440.800" timestamp="1582736787086" />
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1582737778294">
+    <state width="1356" height="192" key="GridCell.Tab.0.bottom" timestamp="1583958507456">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1582737778294" />
-    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1582737778294">
+    <state width="1356" height="192" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1583958507456" />
+    <state width="1356" height="192" key="GridCell.Tab.0.center" timestamp="1583958507456">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1582737778294" />
-    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1582737778293">
+    <state width="1356" height="192" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1583958507456" />
+    <state width="1356" height="192" key="GridCell.Tab.0.left" timestamp="1583958507455">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1582737778293" />
-    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1582737778294">
+    <state width="1356" height="192" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1583958507455" />
+    <state width="1356" height="192" key="GridCell.Tab.0.right" timestamp="1583958507456">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1582737778294" />
-    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582738465431">
+    <state width="1356" height="192" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1583958507456" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1583958553436">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1582738465431" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1583958553436" />
   </component>
 </project>
