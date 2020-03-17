@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27f7f41d-0d97-4287-8cbb-037b4752ecc9" name="Default Changelist" comment="" />
+    <list default="true" id="27f7f41d-0d97-4287-8cbb-037b4752ecc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/WorkCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapaev/Chapaev_res.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_Dorian/The_Picture_of_Dorian_Gray.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_Dorian/The_Picture_of_Dorian_Gray2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_Devils_Dostoevsky/The_Devils_Dostoevsky_res.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/WordCount.scala" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
@@ -148,14 +157,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="164" y="73" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583959639459">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="164" y="57" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584472427440">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
+    <state x="164" y="57" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.799@0.23.1440.799" timestamp="1584472427440" />
     <state x="164" y="73" width="1071" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1583959639459" />
     <state x="443" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582736787086">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="443" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.800@0.23.1440.800" timestamp="1582736787086" />
+    <state x="175" y="85" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584472284842">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="175" y="85" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.799@0.23.1440.799" timestamp="1584472284842" />
     <state width="1356" height="192" key="GridCell.Tab.0.bottom" timestamp="1583958507456">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
@@ -172,9 +186,10 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state width="1356" height="192" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1583958507456" />
-    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1583958553436">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1584470909141">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.799@0.23.1440.799" timestamp="1584470909141" />
     <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1583958553436" />
   </component>
 </project>
